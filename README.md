@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jcastro0x
-- 👀 I’m interested in embedded systems, videogames and networking
-- 🌱 I’m currently learning C++23
+- 👀 I’m interested in ASxxx, C++, videogames and networking
+- 🌱 I’m currently learning Z80
 - 💞️ I’m looking to collaborate on multiplayer games
 - 📫 How to reach me: jcastro0x@gmail.com or my [linkedin](https://es.linkedin.com/in/javiermanuelcastro)
 
